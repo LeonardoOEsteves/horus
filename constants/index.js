@@ -2,69 +2,69 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Torne-se uma Lenda',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Domine as ruas com sua gangue',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Fabrique produtos naturais',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Grafite os muros enfraquecendo os inimigos',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Seja um Gangstar',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Acesse Fivem.net e baixe e instale o client, será necessário possuir GTA V na steam ou epic games',
+  'Entre em nossa cidade pesquisando pelo nome Horus Legacy na lista de servidores, ou através do discord',
+  'Não precisa nem pensar duas vezes, entra logo! Apenas certifique-se de ler as regras e divirta-se ',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'A cidade onde cada jogador tem voz e poder de moldar o destino de Horus.',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Aqui, todos têm o poder de fazer a diferença e influenciar o rumo dos acontecimentos. Nossa comunidade valoriza a voz de cada indivíduo, criando um ambiente onde suas ideias, opiniões e ações têm um impacto real. Seja através de escolhas importantes na história, decisões estratégicas em conflitos ou contribuições criativas para o desenvolvimento do servidor.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'A Jogabilidade que mais se aproxima da realidade está aqui!',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Prepare-se para uma imersão intensa e emocionante em um mundo repleto de ação e estratégia! Nossos sistemas avançados vão te envolver em roubos ousados, perseguições policiais de tirar o fôlego e batalhas épicas pelo controle de territórios. Desenvolva suas habilidades e prove seu valor em confrontos desafiadores. A imersão é apenas o começo, pois a diversão se intensifica com cada "ação" ousada e cada vitória conquistada.',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'A reinauguração da cidade Horus está levando a torcida a loucura',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Prepare-se para uma explosão de entusiasmo! A cidade Horus está de volta e a torcida está enlouquecida com a reinauguração. Este é o momento em que a magia retorna às ruas, onde os sons da emoção ecoam por todos os cantos. Sinta a energia contagiante enquanto a cidade ganha vida com novas possibilidades, experiências emocionantes e aventuras que desafiam os limites da imaginação.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 dicas para dominar facilmente a loucura do Cassino no Metaverso',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'A adrenalina estará no ar enquanto você mergulha de cabeça em jogos clássicos como pôquer, blackjack e roleta. Com gráficos impressionantes e um ambiente imersivo, você se sentirá como se estivesse realmente dentro de um cassino luxuoso. Aposte alto, teste suas habilidades e busque grandes vitórias que podem mudar sua vida. Literalmente!',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Você está pronto para se tornar um Policial e combater a criminalidade nas ruas de Horus?',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Se você possui um senso de justiça inabalável e está pronto para enfrentar o submundo do crime, esta é a sua chance de se destacar. Junte-se a uma equipe de heróis incansáveis, determinados a fazer a diferença e garantir a segurança de nossa comunidade. Treinamento especializado, tecnologia de última geração e a oportunidade de enfrentar os mais perigosos criminosos estão ao seu alcance. Seja o protetor implacável que a cidade de Horus precisa e faça parte da luta contra o crime. Inscreva-se agora na Polícia Horus e deixe sua marca no combate à criminalidade. O destino da cidade está em suas mãos!',
   },
 ];
 
