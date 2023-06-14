@@ -17,14 +17,14 @@ const Explore = () => {
         variants={staggerContainer}
         initial='hidden'
         whileInView='show'
-        viewport={{ once: false, amount: 0.25 }}
+        viewport={{ once: false, amount: 0.35 }}
         className={`${styles.innerWidth} mx-auto flex flex-col`}
       >
         <TypingText title='| The World' textStyles='text-center' />
         <TitleText
           title={
             <>
-              Choose the world you want <br className='md:block hidden' /> to explore
+              Escolha um mundo abaixo <br className='md:block hidden' /> para explorar
             </>
           }
           textStyles='text-center'
