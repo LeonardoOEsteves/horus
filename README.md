@@ -1,6 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-During the development of this project, I practiced:
+## During the development of this project, I practiced:
 - React project architecture and Clean Code best practices
 - Next13 application structure
 - Fundamental CSS properties to master flex using Tailwind CSS
@@ -11,7 +9,7 @@ During the development of this project, I practiced:
 
 Since i have deployed on vercel you can check the website on: https://horus-6sc3c534w-leonardooesteves.vercel.app/
 
-
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Getting Started
 
 First, run the development server:
