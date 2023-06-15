@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+During the development of this project, I practiced:
+- React project architecture and Clean Code best practices
+- Next13 application structure
+- Fundamental CSS properties to master flex using Tailwind CSS
+- From soft and pleasant animations to complex gradients using Framer Motion
+- Perfectly placed media queries for satisfactory responsiveness covering almost  all devices
+- how to deploy website and give it a custom domain name (paid service).
+- how to deploy website on vercel platform.
+
+Since i have deployed on vercel you can check the website on: https://horus-6sc3c534w-leonardooesteves.vercel.app/
+
+
 ## Getting Started
 
 First, run the development server:
