@@ -43,8 +43,23 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-[![https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team\&utm_campaign=oss)
+# :sparkling\_heart: Support the project
+
+I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
+this takes time. You can use this service for free.
+
+However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
+
+*   Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
+*   Starring and sharing the project :rocket:
+*   [![paypal.me/anuraghazra]() - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+
+Thanks! :heart:
+
+***
+
+[![https://vercel.com?utm\source=github\readme\stats\team\&utm\campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team\&utm_campaign=oss)
 
 Contributions are welcome! <3
 
-Made with :heart: and Next13.
+Made with :heart: and Nexte13.
