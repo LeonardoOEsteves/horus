@@ -4,7 +4,6 @@
 - Fundamental CSS properties to master flex using Tailwind CSS
 - From soft and pleasant animations to complex gradients using Framer Motion
 - Perfectly placed media queries for satisfactory responsiveness covering almost  all devices
-- how to deploy website and give it a custom domain name (paid service).
 - how to deploy website on vercel platform.
 
 Since i have deployed on vercel you can check the website on: https://horus-6sc3c534w-leonardooesteves.vercel.app/
